@@ -15,7 +15,7 @@ public class PixelInfo : MonoBehaviour
         _renderer = GetComponent<Renderer>();
     }
 
-    void OnMouseDown()
+    void OnMouseOver()
     {
         _renderer.material.color = brushInfo.color;
         _color = brushInfo.color;

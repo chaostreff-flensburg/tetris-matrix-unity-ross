@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bd357cf-65ed-4132-9a43-786bf5b9870f" name="Default Changelist" comment="" />
+    <list default="true" id="0bd357cf-65ed-4132-9a43-786bf5b9870f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LEDWand/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LEDWand/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LEDWand/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LEDWand/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LEDWand/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LEDWand/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Main.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PixelInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../2019.3.0b1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
@@ -19,7 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/LocalConnections.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C27E1515-D694-401C-B48E-82974E6D3497/90/8cda8e61/ScriptableRuntimeReflectionSystemWrapper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2BB2A3C1-6BE4-4C27-B227-E9D836C322AF/121/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ColorChange.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ColorChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../2019.3.0b1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Downloads/socket-io/ibm.socket-io.client/IClientSocket.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B65BC71A-10EA-472E-B610-1DA1B4E89956/31/6a7b0044/Event.cs" root0="SKIP_HIGHLIGHTING" />
@@ -53,6 +64,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/PixelGrid.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD04DEE0-2E7E-4A85-A129-9C7EE81C79F6/57/3ca2204a/CancellationTokenSource.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD04DEE0-2E7E-4A85-A129-9C7EE81C79F6/36/e8ec4caa/AsyncMethodBuilderCore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SliderManagerInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD04DEE0-2E7E-4A85-A129-9C7EE81C79F6/e8/1164bdf6/AsyncTaskMethodBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD04DEE0-2E7E-4A85-A129-9C7EE81C79F6/ed/d9259973/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PixelInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -76,11 +88,13 @@
         <option value="$PROJECT_DIR$/Assets/ClickHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/PixelGrid.cs" />
         <option value="$PROJECT_DIR$/Assets/PixelInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/SliderManagerInteraction.cs" />
         <option value="$PROJECT_DIR$/Assets/Main.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1RmuyFnecK3FojeqfSpDma9ue88" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -93,6 +107,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
   <component name="RunDashboard">
@@ -134,7 +149,10 @@
       <option name="presentableId" value="Default" />
       <updated>1570284845356</updated>
       <workItem from="1570284851056" duration="8269000" />
-      <workItem from="1570293261344" duration="14441000" />
+      <workItem from="1570293261344" duration="15457000" />
+      <workItem from="1570905150391" duration="3481000" />
+      <workItem from="1570913688638" duration="2474000" />
+      <workItem from="1570916798056" duration="3186000" />
     </task>
     <servers />
   </component>
@@ -143,6 +161,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
